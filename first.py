@@ -1,1 +1,1 @@
-My first python code
+print ("My first python code")
